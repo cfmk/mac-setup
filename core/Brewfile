@@ -32,6 +32,7 @@ brew cmus
 brew youtube-dl
 brew nmap
 brew ffmpeg
+brew Wakeonlan
 
 
 # Apps from "Web"
